@@ -1,3 +1,123 @@
+### [beocaca/githubstartog](https://github.com/beocaca/githubstartog)
+- **Description:** 将你的星标项目做成前端页面
+
+### [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+- **Description:** Cross-platform GUI management tools for OpenCore（OCAT）
+
+### [cuihairu/MSI-PRO-H610M-E-i3-12100F-RX580-Hackintosh](https://github.com/cuihairu/MSI-PRO-H610M-E-i3-12100F-RX580-Hackintosh)
+- **Description:** Install macOS Ventura on MSI PRO H610M-E Mainboard with Intel i5-12400F or i3-12100F.
+
+### [byakkili/Hackintosh-H610M-12400-RX460](https://github.com/byakkili/Hackintosh-H610M-12400-RX460)
+- **Description:** 🖥 OpenCore 0.8.9 For 技嘉H610M-H + i5-12400 + Radeon RX460
+
+### [vncsmnl/EFI-HUANANZHI-X99-BD4-HACKINTOSH](https://github.com/vncsmnl/EFI-HUANANZHI-X99-BD4-HACKINTOSH)
+- **Description:** 🖥️ HUANANZHI X99 BD4 + Intel® Xeon® E5-2670 v3 + AMD Radeon™ RX 6600 + Fenvi T919
+
+### [sebasrock156/Huananzhi-X99E-K4-Opencore](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore)
+- **Description:** Another hackintosh EFI, now for this low-cost chinese motherboard
+
+### [luchina-gabriel/EFI-X99-HUANANZHI-F8-INTEL-XEON-V4-RX-580-8GB](https://github.com/luchina-gabriel/EFI-X99-HUANANZHI-F8-INTEL-XEON-V4-RX-580-8GB)
+- **Description:** EFI for Hackintosh: Huananzhi F8, Intel Xeon E5-26XX V4 (Broadwell/HEDT) and RX 580 8Gb or others compatible GPUs.
+
+### [TuanCanCode/x99-qd4-hackintosh](https://github.com/TuanCanCode/x99-qd4-hackintosh)
+- **Description:** EFI Hackintosh for Huananzhi X99-QD4 Motherboard
+
+### [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
+- **Description:** Enable macOS HiDPI and have a native setting.
+
+### [rolldown/tsdown](https://github.com/rolldown/tsdown)
+- **Description:** The elegant bundler for libraries powered by Rolldown
+
+### [nickbalestra/fullstack-cf-example](https://github.com/nickbalestra/fullstack-cf-example)
+
+### [tsndr/cloudflare-worker-jwt](https://github.com/tsndr/cloudflare-worker-jwt)
+- **Description:** A lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
+
+### [megasanjay/vue3-marquee](https://github.com/megasanjay/vue3-marquee)
+- **Description:** A simple marquee component with ZERO dependencies for Vue 3.
+
+### [hellodigua/vue-danmaku](https://github.com/hellodigua/vue-danmaku)
+- **Description:** 基于 Vue 的弹幕交互组件  | A danmaku component for Vue
+
+### [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+- **Description:** Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+
+### [laichuangwen/e-virt-table-vue3](https://github.com/laichuangwen/e-virt-table-vue3)
+- **Description:** e-virt-table vue3 component encapsulation, you can expand more functions
+
+### [laichuangwen/e-virt-table](https://github.com/laichuangwen/e-virt-table)
+- **Description:** A powerful data table based on canvas. You can use it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc.
+
+### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
+- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+
+### [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
+- **Description:** AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
+
+### [libn-net/marketing_creator_pro_max_pc](https://github.com/libn-net/marketing_creator_pro_max_pc)
+- **Description:** 高颜值AI数字人克隆、声音克隆、短视频生成、直播（待发布）、AI配音、AI字幕，包括Windows安装版，Web版，H5版，小程序版，副业必备，开源数字人克隆平台Windows版和PC-Web版
+
+### [libn-net/marketing_creator_pro_max_uni](https://github.com/libn-net/marketing_creator_pro_max_uni)
+- **Description:** 高颜值AI数字人克隆、声音克隆、短视频生成、直播（待发布）、AI配音、AI字幕，包括Windows安装版，Web版，H5版，小程序版，副业必备,开源数字人克隆平台H5，小程序端
+
+### [libn-net/marketing_creator_pro_max_backend](https://github.com/libn-net/marketing_creator_pro_max_backend)
+- **Description:** 高颜值AI数字人克隆、声音克隆、短视频生成、直播（待发布）、AI配音、AI字幕，包括Windows安装版，Web版，H5版，小程序版，副业必备，开源数字人克隆平台后端API
+
+### [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
+- **Description:** 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
+
+### [4n0nymou3/Telegram-API-Proxy](https://github.com/4n0nymou3/Telegram-API-Proxy)
+- **Description:** A Cloudflare-based solution for accessing the Telegram API without VPN in regions where it's restricted.
+
+### [elizaOS/auto.fun](https://github.com/elizaOS/auto.fun)
+- **Description:** Open source Solana launchpad
+
+### [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+- **Description:** 🧡 Everything is RSSible
+
+### [cdleveille/fullstack-bun](https://github.com/cdleveille/fullstack-bun)
+- **Description:** Curated web app project template with emphasis on developer experience and type safety. Bun/Elysia backend, React frontend, Socket.IO and TanStack Query bridging the gap.
+
+### [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit)
+- **Description:** 🤖 Beautifully designed chatbot components based on shadcn/ui
+
+### [gramiojs/gramio](https://github.com/gramiojs/gramio)
+- **Description:** Powerful, extensible and really type-safe Telegram Bot API framework
+
+### [LolipopJ/LolipopJ](https://github.com/LolipopJ/LolipopJ)
+- **Description:** 被窝一无所有，为何给我安慰
+
+### [KtranH/KhoiTran_LeetCode](https://github.com/KtranH/KhoiTran_LeetCode)
+
+### [KtranH/KT_AI](https://github.com/KtranH/KT_AI)
+- **Description:** Xây dựng Website tạo ảnh tích hợp Comfyui
+
+### [wadv-code/vue-wade-admin](https://github.com/wadv-code/vue-wade-admin)
+- **Description:** This is an official starter Turborepo V2.
+
+### [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
+- **Description:** FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+
+### [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)
+- **Description:** A zero-config, instant build tool powered by Rspack.
+
+### [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server)
+- **Description:** Official Notion MCP Server
+
+### [zyyv/unocss-preset-uno-next](https://github.com/zyyv/unocss-preset-uno-next)
+
+### [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+- **Description:** Tailwind CSS module for Nuxt
+
+### [microsoft/markitdown](https://github.com/microsoft/markitdown)
+- **Description:** Python tool for converting files and office documents to Markdown.
+
+### [h3js/h3](https://github.com/h3js/h3)
+- **Description:** ⚡️ Minimal H(TTP) framework built for high performance and portability 
+
+### [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+- **Description:** Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
 - **Description:** 将你的星标项目做成前端页面
 
@@ -108,7 +228,7 @@
 ### [w3cj/nuxt-tasks-app](https://github.com/w3cj/nuxt-tasks-app)
 - **Description:** A simple app that demonstrates layouts, pages, data fetching and API routes in Nuxt.
 
-### [elizaOS/eliza-v2-nextjs-starter](https://github.com/elizaOS/eliza-v2-nextjs-starter)
+### [elizaOS/eliza-nextjs-starter](https://github.com/elizaOS/eliza-nextjs-starter)
 - **Description:** Eliza v2 Document Chat Demo Built on Next.js
 
 ### [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping)
@@ -379,8 +499,8 @@
 ### [hisxo/gitGraber](https://github.com/hisxo/gitGraber)
 - **Description:** gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 
-### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
-- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
+- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 
 ### [Arman19941113/dnd-resume](https://github.com/Arman19941113/dnd-resume)
 - **Description:** 🚀 Resume Builder 在线简历生成工具
@@ -467,7 +587,7 @@
 - **Description:** Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 
 ### [bansal/folder](https://github.com/bansal/folder)
-- **Description:** Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀
+- **Description:** Folder – An open-source Google Drive alternative
 
 ### [Sam-Max/rcmltb](https://github.com/Sam-Max/rcmltb)
 - **Description:** An rclone telegram bot to mirror-leech and copy between many cloud servers 
@@ -594,7 +714,7 @@
 ### [king1x32/UserScripts](https://github.com/king1x32/UserScripts)
 
 ### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
-- **Description:** A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
+- **Description:** ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
 
 ### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - **Description:** A collection of MCP servers.
@@ -1180,7 +1300,7 @@
 - **Description:** free online AI resume editor
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI)
-- **Description:** 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards, BI and embedded AI. 📈📊📋🧑‍💻
+- **Description:** 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their databases to generate Text-to-SQL, BI and embedded AI. 📈📊📋🧑‍💻
 
 ### [ajnart/subs](https://github.com/ajnart/subs)
 - **Description:** Subs ! Track your subscriptions easily 
@@ -1449,7 +1569,7 @@
 - **Description:** Open Source Alternative to Vercel, Netlify and Heroku.
 
 ### [TimNekk/2048-telegram-mini-app](https://github.com/TimNekk/2048-telegram-mini-app)
-- **Description:** 2048 Game within Telegram Mini App
+- **Description:** 2048 Game within Telegram Mini App (React + Go + Aiogram)
 
 ### [imrofayel/fylepad](https://github.com/imrofayel/fylepad)
 - **Description:** an aesthetic AI notepad with Markdown.
@@ -1565,9 +1685,6 @@
 
 ### [yesfedor/nuxt-core-template](https://github.com/yesfedor/nuxt-core-template)
 
-### [hanzydev/hanzy.dev](https://github.com/hanzydev/hanzy.dev)
-- **Description:** Personal website.
-
 ### [hanzydev/Fileship](https://github.com/hanzydev/Fileship)
 - **Description:** Fileship is an open-source and self-hosted image uploading service with cool features.
 
@@ -1593,7 +1710,7 @@
 - **Description:** 🚦 A lightweight Axios request throttling interceptor
 
 ### [browserbase/stagehand](https://github.com/browserbase/stagehand)
-- **Description:** An AI web browsing framework focused on simplicity and extensibility.
+- **Description:** The TypeScript framework for automating browsers with AI
 
 ### [mathuo/dockview](https://github.com/mathuo/dockview)
 - **Description:** Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
@@ -2132,7 +2249,7 @@
 - **Description:** easy-to-use note taking web application, designed to help student's improve memory retention.
 
 ### [knemerzitski/notes](https://github.com/knemerzitski/notes)
-- **Description:** Serverless note taking SPA with collaborative editing capabilities.
+- **Description:** Real-time collaborative editing SPA with serverless GraphQL backend and offline support.
 
 ### [textbus/textbus](https://github.com/textbus/textbus)
 - **Description:** Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
@@ -2801,7 +2918,7 @@
 - **Description:** A fast and ergonomic concurrent hashmap for read-heavy workloads.
 
 ### [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
-- **Description:** The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+- **Description:** The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 ### [cheshire-cat-ai/admin-vue](https://github.com/cheshire-cat-ai/admin-vue)
 - **Description:** Admin panel of the Cheshire Cat AI
@@ -2831,7 +2948,7 @@
 - **Description:** This is a Nuxt.js project with authentication implemented using Lucia.
 
 ### [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo)
-- **Description:** "Roo Code" AI ready Monorepo | Devcontainer | 🔥Hono + OpenAPI & RPC, Nuxt, SST Ion, Kinde Auth, Tanstack Query, Shadcn, Primevue, UnoCSS
+- **Description:** Monorepo with 🤖 AI initialize | 🔥Hono + OpenAPI & RPC, Nuxt, SST Ion, Kinde Auth, Tanstack Query, Shadcn, Primevue, UnoCSS, Spreadsheet I18n
 
 ### [jellydn/elysia-demo-app](https://github.com/jellydn/elysia-demo-app)
 - **Description:** A Real-World Example Using Bun, Docker, and Fly.io 🚀
@@ -3250,7 +3367,7 @@
 - **Description:** A TypeScript-like language for WebAssembly.
 
 ### [thi-ng/umbrella](https://github.com/thi-ng/umbrella)
-- **Description:** ⛱  Broadly scoped ecosystem & mono-repository of 207 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- **Description:** ⛱  Broadly scoped ecosystem & mono-repository of 208 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 
 ### [zigzap/zap](https://github.com/zigzap/zap)
 - **Description:** blazingly fast backends in zig
@@ -4014,6 +4131,7 @@
 - **Description:** Three.quarks is a general purpose particle system /  VFX engine for three.js
 
 ### [tommhuth/zax2](https://github.com/tommhuth/zax2)
+- **Description:** Zaxxon clone for the browser
 
 ### [LeonardoRibas/unbru-app](https://github.com/LeonardoRibas/unbru-app)
 - **Description:** Aplicativo que disponibiliza o cardápio do Restaurante Universitário da Universidade de Brasília
@@ -5658,7 +5776,7 @@
 - **Description:** ⚓ A collection of JavaScript tools written in Rust.
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [denoland/denokv](https://github.com/denoland/denokv)
 - **Description:** A self-hosted backend for Deno KV
@@ -6960,7 +7078,7 @@
 - **Description:** Build AI Agents, Visually
 
 ### [lyqht/mini-qr](https://github.com/lyqht/mini-qr)
-- **Description:** Scan & create pretty qr codes easily 👾
+- **Description:** Create & scan cute qr codes easily 👾
 
 ### [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 - **Description:** DeepFaceLab is the leading software for creating deepfakes.
@@ -8069,8 +8187,8 @@
 ### [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension)
 - **Description:** An all-in-one plugin to improve your ChatGPT experience!
 
-### [AprilNEA/AdminChat](https://github.com/AprilNEA/AdminChat)
-- **Description:** One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
+### [AprilNEA/AChat](https://github.com/AprilNEA/AChat)
+- **Description:** 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
 
 ### [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles)
 - **Description:** Document Chatbot — multiple files. Powered by GPT / Embedding.
@@ -9020,7 +9138,7 @@
 - **Description:** Simple and fast note-taking in Chrome with Google Drive support.
 
 ### [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)
-- **Description:** Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
+- **Description:** Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
 
 ### [k-ivan/tabs-slider](https://github.com/k-ivan/tabs-slider)
 - **Description:** Tabs slider
@@ -9050,7 +9168,7 @@
 - **Description:** Browser extension for opening lists of URLs built with Vue.js on top of WebExtension with cross-browser support
 
 ### [firerpa/lamda](https://github.com/firerpa/lamda)
-- **Description:** 🤖  The most powerful Android RPA framework, the next generation of mobile automation robots.
+- **Description:**  The most powerful Android RPA agent framework, next generation of mobile automation robots.
 
 ### [foamzou/melody](https://github.com/foamzou/melody)
 - **Description:** 我的音乐精灵
@@ -9610,7 +9728,7 @@
 - **Description:** The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 
 ### [appwrite/appwrite](https://github.com/appwrite/appwrite)
-- **Description:** The open-source Vercel alternative
+- **Description:** Build like a team of hundreds_
 
 ### [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar)
 - **Description:** An elegant calendar and datepicker plugin for Vue.
