@@ -1,3 +1,23 @@
+### [rokmohar/medusa-payment-manual](https://github.com/rokmohar/medusa-payment-manual)
+
+### [rokmohar/medusa-plugin-unsend](https://github.com/rokmohar/medusa-plugin-unsend)
+
+### [rokmohar/medusa-plugin-meilisearch](https://github.com/rokmohar/medusa-plugin-meilisearch)
+
+### [fsyntax/nuxt-ecommerce](https://github.com/fsyntax/nuxt-ecommerce)
+
+### [fsyntax/medusa-plugin-printful](https://github.com/fsyntax/medusa-plugin-printful)
+- **Description:** Printful Integration for Medusajs
+
+### [u11d-com/medusa-starter](https://github.com/u11d-com/medusa-starter)
+- **Description:** Starter templates for Medusa.js e-commerce development with Docker and Docker Compose.
+
+### [u11d-com/terraform-aws-medusajs](https://github.com/u11d-com/terraform-aws-medusajs)
+- **Description:** Terraform module to deploy Medusa.js e-commerce platform on AWS.
+
+### [chibivue-land/japanese-companies-using-vuejs](https://github.com/chibivue-land/japanese-companies-using-vuejs)
+- **Description:** 日本で Vue.js を使っている企業一覧
+
 ### [rahimny/portfolio](https://github.com/rahimny/portfolio)
 - **Description:** Portfolio website showcasing creative coding experiments with WebGL, WebGPU & Three.js
 
