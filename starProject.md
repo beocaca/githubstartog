@@ -1,3 +1,21 @@
+### [rahimny/portfolio](https://github.com/rahimny/portfolio)
+- **Description:** Portfolio website showcasing creative coding experiments with WebGL, WebGPU & Three.js
+
+### [soybeanjs/soybean-ui](https://github.com/soybeanjs/soybean-ui)
+- **Description:** An elegant and accessible UI library like shadcn for Vue3
+
+### [megaconfidence/wifski](https://github.com/megaconfidence/wifski)
+- **Description:** Create high-quality GIFs from your videos on the web.
+
+### [janzheng/audio-extractor-v2](https://github.com/janzheng/audio-extractor-v2)
+- **Description:** Cloudflare worker to extract audio from video files
+
+### [beocaca/githubstartog](https://github.com/beocaca/githubstartog)
+- **Description:** 将你的星标项目做成前端页面
+
+### [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)
+- **Description:** A Python module to bypass Cloudflare's anti-bot page.
+
 ### [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
 - **Description:** Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
@@ -666,9 +684,6 @@
 
 ### [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - **Description:** 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
-
-### [beocaca/githubstartog](https://github.com/beocaca/githubstartog)
-- **Description:** 将你的星标项目做成前端页面
 
 ### [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
 - **Description:** Cross-platform GUI management tools for OpenCore（OCAT）
@@ -7304,9 +7319,6 @@
 
 ### [actix/actix-web](https://github.com/actix/actix-web)
 - **Description:** Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-
-### [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
-- **Description:** Functional programming in TypeScript
 
 ### [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
 - **Description:** Functional programming in TypeScript
