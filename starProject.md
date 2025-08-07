@@ -2184,7 +2184,7 @@
 ### [vercel/next-forge](https://github.com/vercel/next-forge)
 - **Description:** Production-grade Turborepo template for Next.js apps.
 
-### [N0SAFE/nextjs-directus-turborepo-template](https://github.com/N0SAFE/nextjs-directus-turborepo-template)
+### [N0SAFE/nextjs-nestjs-turborepo-template](https://github.com/N0SAFE/nextjs-nestjs-turborepo-template)
 
 ### [remy/nodemon](https://github.com/remy/nodemon)
 - **Description:** Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -8757,7 +8757,7 @@
 ### [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard)
 - **Description:** [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
 
-### [Texera/texera](https://github.com/Texera/texera)
+### [apache/texera](https://github.com/apache/texera)
 - **Description:** Collaborative Machine-Learning-Centric Data Analytics Using Workflows
 
 ### [medplum/medplum](https://github.com/medplum/medplum)
