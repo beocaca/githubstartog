@@ -1,3 +1,33 @@
+### [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+- **Description:** Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+
+### [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+- **Description:** Anthropic's Interactive Prompt Engineering Tutorial
+
+### [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
+- **Description:** An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
+
+### [ozgrozer/top-ai-directories](https://github.com/ozgrozer/top-ai-directories)
+- **Description:** A comprehensive list of AI directories
+
+### [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)
+- **Description:** A collection of GPT system prompts and various prompt injection/leaking knowledge.
+
+### [hrynko/vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
+- **Description:** PDF embed component for Vue 2 and Vue 3
+
+### [acTechWorld/vue-drag-playground](https://github.com/acTechWorld/vue-drag-playground)
+- **Description:** VueDragPlayground is a versatile Vue 3 library designed to create dynamic and interactive user interfaces with drag, resize, and rotate functionalities. It allows developers to easily implement draggable, resizable, and rotatable elements in their applications, offering a smooth user experience powered by modern tooling like Vue 3.
+
+### [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering)
+- **Description:**  🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
+
+### [acTechWorld/vue-onboarding-tour](https://github.com/acTechWorld/vue-onboarding-tour)
+- **Description:** VueOnboardingTour is a Vue.js component that creates guided, step-by-step onboarding tours to help users navigate your app intuitively.
+
+### [coffee-and-fun/google-profanity-words](https://github.com/coffee-and-fun/google-profanity-words)
+- **Description:** Full list of bad words and top swear words banned by Google. 
+
 ### [rokmohar/medusa-payment-manual](https://github.com/rokmohar/medusa-payment-manual)
 
 ### [rokmohar/medusa-plugin-unsend](https://github.com/rokmohar/medusa-plugin-unsend)
