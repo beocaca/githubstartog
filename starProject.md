@@ -1,3 +1,26 @@
+### [Prains/nuxt-vue-dragscroll](https://github.com/Prains/nuxt-vue-dragscroll)
+
+### [kanbn/kan](https://github.com/kanbn/kan)
+- **Description:** The open source Trello alternative.
+
+### [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine)
+- **Description:** Generate LoFi music on the go, offline and locally.
+
+### [specfy/stack-analyser](https://github.com/specfy/stack-analyser)
+- **Description:** Extract +700 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+
+### [daveio/dave-io](https://github.com/daveio/dave-io)
+- **Description:** Website and personal API
+
+### [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+- **Description:** The user-friendly command line shell.
+
+### [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai)
+- **Description:** A list of AI coding tools (assistants, completions, refactoring, etc.)
+
+### [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
+- **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://vbhub.net/?src=github
+
 ### [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 - **Description:** Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 
@@ -949,7 +972,7 @@
 - **Description:** Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
-- **Description:** A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- **Description:** A cross-platform Markdown AI note-taking software.
 
 ### [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k)
 - **Description:** 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites. 
@@ -2017,7 +2040,7 @@
 - **Description:** free online AI resume editor
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI)
-- **Description:** ⚡️ AI-powered Business Intelligence (GenBI - Generative BI) query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds.
+- **Description:** ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
 
 ### [ajnart/subs](https://github.com/ajnart/subs)
 - **Description:** Subs ! Track your subscriptions easily 
@@ -5806,7 +5829,7 @@
 ### [artilleryio/artillery](https://github.com/artilleryio/artillery)
 - **Description:** The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.
 
-### [geoglify/ais-watch](https://github.com/geoglify/ais-watch)
+### [leoneljdias/ais-watch](https://github.com/leoneljdias/ais-watch)
 - **Description:** You're in the right sea
 
 ### [googollee/go-socket.io](https://github.com/googollee/go-socket.io)
@@ -6812,7 +6835,7 @@
 - **Description:** Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualtrics alternative
 
 ### [pararell/eshop_mean](https://github.com/pararell/eshop_mean)
-- **Description:** 🛒 Ecommerce MEAN Stack ( MongoDB, Express and Node in Nest.js, Angular 19 SSR zoneless ) - render.com : https://eshop-mean.onrender.com/
+- **Description:** 🛒 Ecommerce MEAN Stack ( MongoDB, Express and Node in Nest.js, Angular 20 SSR zoneless ) - render.com : https://eshop-mean.onrender.com/
 
 ### [ryanckulp/speedrail](https://github.com/ryanckulp/speedrail)
 - **Description:** Rails 8 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc
@@ -8075,7 +8098,7 @@
 - **Description:** [READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
 
 ### [requestly/requestly](https://github.com/requestly/requestly)
-- **Description:** Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy.
+- **Description:** Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
 
 ### [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 - **Description:** A Collection of GitHub Profiles with awesome readme
