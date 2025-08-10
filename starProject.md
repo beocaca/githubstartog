@@ -226,7 +226,7 @@
 - **Description:** Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 
 ### [jenissimo/unfake.js](https://github.com/jenissimo/unfake.js)
-- **Description:** Fix AI Art. Pixel-perfect.
+- **Description:** Fix AI pixel art and vector images right in your browser
 
 ### [devflowinc/uzi](https://github.com/devflowinc/uzi)
 - **Description:** CLI for running large numbers of coding agents in parallel with git worktrees
@@ -1455,7 +1455,7 @@
 - **Description:** A modern Nuxt.js starter template with TypeScript, TailwindCSS, Pinia, and more.
 
 ### [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
-- **Description:** Investment Research for Everyone, Everywhere.
+- **Description:** Financial data aggregator for humans and AI agents.
 
 ### [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - **Description:** real time face swap and one-click video deepfake with only a single image
@@ -1486,7 +1486,7 @@
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - **Description:** 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-### [SamuelScheit/puppeteer-stream](https://github.com/SamuelScheit/puppeteer-stream)
+### [samuelscheit/puppeteer-stream](https://github.com/samuelscheit/puppeteer-stream)
 - **Description:** A Library for puppeteer to retrieve audio and video streams of webpages
 
 ### [HugoRCD/wxt-nuxt-ui-starter](https://github.com/HugoRCD/wxt-nuxt-ui-starter)
@@ -1964,7 +1964,7 @@
 - **Description:** This project provides the sync between the directus and medusa each changes over the directus is reflected to Medusa 
 
 ### [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama)
-- **Description:** ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
+- **Description:** ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure.
 
 ### [vasilistotskas/grooveshop-django-api](https://github.com/vasilistotskas/grooveshop-django-api)
 - **Description:** Django Ecommerce
@@ -2312,7 +2312,7 @@
 - **Description:** 2048 Game within Telegram Mini App (React + Go + Aiogram)
 
 ### [imrofayel/fylepad](https://github.com/imrofayel/fylepad)
-- **Description:** an aesthetic notepad with Markdown.
+- **Description:** A cross platform notepad for effortless note-taking — featuring rich text editing, multiple tabs, cloud sync, and built-in support for Mermaid/PlantUML diagrams, tables, code blocks, and more.
 
 ### [frappe/erpnext](https://github.com/frappe/erpnext)
 - **Description:** Free and Open Source Enterprise Resource Planning (ERP)
@@ -3644,7 +3644,7 @@
 - **Description:** A fast and ergonomic concurrent hashmap for read-heavy workloads.
 
 ### [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
-- **Description:** The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- **Description:** The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 
 ### [cheshire-cat-ai/admin-vue](https://github.com/cheshire-cat-ai/admin-vue)
 - **Description:** Admin panel of the Cheshire Cat AI
