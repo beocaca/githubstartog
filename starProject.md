@@ -752,7 +752,7 @@
 ### [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm)
 - **Description:** Intel Wi-Fi Drivers for macOS
 
-### [perez987/Intel-AX210-on-macOS-Sonoma-Sequoia-](https://github.com/perez987/Intel-AX210-on-macOS-Sonoma-Sequoia-)
+### [perez987/Intel-AX210-on-macOS-Sonoma-Sequoia](https://github.com/perez987/Intel-AX210-on-macOS-Sonoma-Sequoia)
 - **Description:** Intel AX210S PCIe WiFi 6E card suported on macOS Sonoma thanks to OpenIntelWireless work, not needing to relax Apple Secure Boot or SIP
 
 ### [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
@@ -4501,7 +4501,7 @@
 - **Description:** Telegram bot（img-mon | 图片老妈）
 
 ### [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)
-- **Description:** 🍀 HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用（不仅仅是即时通讯），兼容Windows、MacOS、Linux、Android、IOS
+- **Description:** 🍀HuLa is a cross-platform instant messaging desktop application based on Tauri v2+Vue3, compatible with Windows, MacOS, Linux, Android, IOS  （HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
 
 ### [binbat/live777](https://github.com/binbat/live777)
 - **Description:** A very simple, high performance, edge WebRTC SFU
@@ -6901,7 +6901,7 @@
 - **Description:** Tracking the most popular Github repos, update daily(Python version)
 
 ### [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools)
-- **Description:** Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- **Description:** Build cross-browser extensions with native HMR and zero-config setup
 
 ### [Zalo-MiniApp/zaui-coffee](https://github.com/Zalo-MiniApp/zaui-coffee)
 - **Description:** Public template for building a coffee shop on Zalo Mini App
