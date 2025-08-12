@@ -1,3 +1,30 @@
+### [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt)
+- **Description:** The /llms.txt file, helping language models use your website
+
+### [idosal/ui-inspector](https://github.com/idosal/ui-inspector)
+- **Description:** Visual testing tool for MCP servers
+
+### [idosal/mcp-ui](https://github.com/idosal/mcp-ui)
+- **Description:** SDK for UI over MCP. Create next-gen UI experiences!
+
+### [wattanx/wattanx-converter](https://github.com/wattanx/wattanx-converter)
+- **Description:** wattanx-converter provides useful tools for Vue and Nuxt.
+
+### [GonzaloHirsch/gonzalohirsch.com](https://github.com/GonzaloHirsch/gonzalohirsch.com)
+- **Description:** This repository contains the code for a personal website optimized for search engines, hosted on Amazon Web Services (AWS). It includes all necessary files and configurations for easy deployment and maintenance.
+
+### [21nOrg/docs](https://github.com/21nOrg/docs)
+- **Description:** The central docs site for all products 21n.
+
+### [21nOrg/tidigit](https://github.com/21nOrg/tidigit)
+- **Description:** The library that's powering tools built at 21n - Memotron, Pointron, Nucleus and more...
+
+### [logseq/logseq](https://github.com/logseq/logseq)
+- **Description:** A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+### [jonathansilva/8BallPool](https://github.com/jonathansilva/8BallPool)
+- **Description:** 8 Ball Pool Guideline Hack [ Lucky Shot coming soon ]
+
 ### [Prains/nuxt-vue-dragscroll](https://github.com/Prains/nuxt-vue-dragscroll)
 
 ### [kanbn/kan](https://github.com/kanbn/kan)
@@ -1463,7 +1490,7 @@
 ### [king1x32/King-Translator-AI](https://github.com/king1x32/King-Translator-AI)
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Ultimate curated list of best root apps, Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device.
+- **Description:** Ultimate curated list of best root apps, Magisk/KernelSU/APtach/KernelSU-Next/Sukisu-Ultra & LSPosed(Xposed) modules & step-by-step rooting guides to control, boost performance, debloat & customize your device.
 
 ### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - **Description:** A collection of MCP servers.
@@ -3620,7 +3647,7 @@
 - **Description:** Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ### [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts)
-- **Description:** YouTube Full Text Search - Search all of a YouTube channel from the command line
+- **Description:** YouTube Full Text Search - Search all of YouTube from the command line
 
 ### [liuff19/ReconX](https://github.com/liuff19/ReconX)
 - **Description:** ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model
@@ -9271,7 +9298,7 @@
 - **Description:** A free guide for learning to create ChatGPT3 Prompts
 
 ### [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
-- **Description:** OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- **Description:** OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ### [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - **Description:** The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
@@ -10872,7 +10899,7 @@
 - **Description:** Universal Storage Utilities for Nuxt 2
 
 ### [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt)
-- **Description:** Vitesse for Nuxt 3 🏔💚⚡️
+- **Description:** Vitesse for Nuxt 4 🏔💚⚡️
 
 ### [urql-graphql/urql](https://github.com/urql-graphql/urql)
 - **Description:** The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
