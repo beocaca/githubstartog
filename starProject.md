@@ -7148,9 +7148,6 @@
 ### [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend)
 - **Description:** We migrated to https://codeberg.org/karrot/karrot-frontend
 
-### [grasplabs/documate](https://github.com/grasplabs/documate)
-- **Description:** Embed AI chat dialog into your doc site to answer user questions based on your own content.
-
 ### [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 - **Description:** 🐉 Vue Component Framework
 
