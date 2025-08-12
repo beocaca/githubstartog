@@ -26,7 +26,7 @@
 - **Description:** A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ### [jonathansilva/8BallPool](https://github.com/jonathansilva/8BallPool)
-- **Description:** 8 Ball Pool Guideline Hack [ Lucky Shot coming soon ]
+- **Description:** 8 Ball Pool Guideline Hack
 
 ### [Prains/nuxt-vue-dragscroll](https://github.com/Prains/nuxt-vue-dragscroll)
 
