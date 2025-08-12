@@ -2553,7 +2553,7 @@
 - **Description:** Sample cloud-native serverless project for a Flight Air company using Node.Js, Typescript, AWS DynamoDB, AWS Lambda, AWS SQS, AWS API Gateway and Serverless Framework.
 
 ### [kubewall/kubewall](https://github.com/kubewall/kubewall)
-- **Description:** A single binary kubernetes dashboard to manage your multiple clusters.
+- **Description:** kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple clusters.
 
 ### [laksharmaa/Serverless-TTS-Application](https://github.com/laksharmaa/Serverless-TTS-Application)
 - **Description:** PollyBlogs is a powerful text-to-speech application that uses AWS Polly to generate voice narration for blog posts. 
