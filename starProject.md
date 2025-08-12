@@ -1,3 +1,6 @@
+### [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo)
+- **Description:** A custom registry of composable, accessible and open source shadcn/ui components.
+
 ### [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt)
 - **Description:** The /llms.txt file, helping language models use your website
 
