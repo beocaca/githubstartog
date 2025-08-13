@@ -1070,7 +1070,7 @@
 
 ### [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
 
-### [meta-llama/llama-stack-client-typescript](https://github.com/meta-llama/llama-stack-client-typescript)
+### [llamastack/llama-stack-client-typescript](https://github.com/llamastack/llama-stack-client-typescript)
 - **Description:** Typescript library for Llama Stack
 
 ### [kgrg/vue3-tailwind-todo](https://github.com/kgrg/vue3-tailwind-todo)
@@ -1850,7 +1850,7 @@
 - **Description:** TOTP Token Generator - Web GUI
 
 ### [continuedev/continue](https://github.com/continuedev/continue)
-- **Description:** ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- **Description:** ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 
 ### [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent)
 - **Description:** 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
