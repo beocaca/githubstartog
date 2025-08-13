@@ -416,7 +416,7 @@
 - **Description:** 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
 
 ### [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent)
-- **Description:** 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
+- **Description:** 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper & WebWatcher https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592 https://arxiv.org/pdf/2508.05748
 
 ### [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
 - **Description:** One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
@@ -6582,7 +6582,7 @@
 - **Description:** 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 
 ### [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x)
-- **Description:** 2^x Image Super-Resolution
+- **Description:** A cross-platform image super-resolution tool.
 
 ### [ssnangua/iyo-image-converter](https://github.com/ssnangua/iyo-image-converter)
 - **Description:** A free native image converter | 一个免费的本地图片转换工具
