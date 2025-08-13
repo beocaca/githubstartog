@@ -691,8 +691,8 @@
 ### [github/mini-throttle](https://github.com/github/mini-throttle)
 - **Description:** A small JavaScript throttle & debounce implementation.
 
-### [lucaswalter/n8n-ai-workflows](https://github.com/lucaswalter/n8n-ai-workflows)
-- **Description:** Collection of n8n workflows, automations, and agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community.
+### [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)
+- **Description:** Collection of n8n workflows, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community.
 
 ### [suyalcinkaya/onur.dev](https://github.com/suyalcinkaya/onur.dev)
 - **Description:** ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
