@@ -1,3 +1,6 @@
+### [RadValentin/postcss-prefix-selector](https://github.com/RadValentin/postcss-prefix-selector)
+- **Description:** Prefix all CSS rules with a selector
+
 ### [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo)
 - **Description:** A custom registry of composable, accessible and open source shadcn/ui components.
 
@@ -9583,7 +9586,7 @@
 - **Description:** A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 
 ### [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-- **Description:** 🦜🔗 Build context-aware reasoning applications
+- **Description:** 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 ### [telegraf/telegraf](https://github.com/telegraf/telegraf)
 - **Description:** Modern Telegram Bot Framework for Node.js
@@ -11147,7 +11150,7 @@
 - **Description:** A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 
 ### [travist/jsencrypt](https://github.com/travist/jsencrypt)
-- **Description:** A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- **Description:** A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 
 ### [digitalbazaar/forge](https://github.com/digitalbazaar/forge)
 - **Description:** A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
