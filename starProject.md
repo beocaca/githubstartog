@@ -1,3 +1,8 @@
+### [sytanta/nuxt-echo](https://github.com/sytanta/nuxt-echo)
+
+### [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
+- **Description:** Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
+
 ### [RadValentin/postcss-prefix-selector](https://github.com/RadValentin/postcss-prefix-selector)
 - **Description:** Prefix all CSS rules with a selector
 
