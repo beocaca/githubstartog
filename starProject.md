@@ -9279,7 +9279,7 @@
 - **Description:** AI PDF chatbot agent built with LangChain & LangGraph 
 
 ### [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator)
-- **Description:** Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
+- **Description:** Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 
 ### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 - **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
