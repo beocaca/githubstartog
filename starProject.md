@@ -752,7 +752,7 @@
 - **Description:** Hackintosh - MSI PRO B760-P - Intel i5 12400F - Gigabyte RX 6600
 
 ### [Stick-Study/Universal-EFI-for-Intel-Hybrid-Architecture](https://github.com/Stick-Study/Universal-EFI-for-Intel-Hybrid-Architecture)
-- **Description:** General-EFI-for-600/700-Series Continually updated / 持续更新
+- **Description:** Universal-EFI-for-600, 700 & 800-Series
 
 ### [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 - **Description:** ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
@@ -8133,7 +8133,7 @@
 - **Description:** [READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
 
 ### [requestly/requestly](https://github.com/requestly/requestly)
-- **Description:** Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
+- **Description:** Free and open-source API Client & Interceptor
 
 ### [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 - **Description:** A Collection of GitHub Profiles with awesome readme
