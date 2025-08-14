@@ -1,3 +1,9 @@
+### [donPuerto/nuxt-shadcn-boilerplate](https://github.com/donPuerto/nuxt-shadcn-boilerplate)
+- **Description:** 🚀 Nuxt 4 + ShadCN Boilerplate
+
+### [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk)
+- **Description:** Modern, open source, self-hosted customer support desk. Single binary app.
+
 ### [sytanta/nuxt-echo](https://github.com/sytanta/nuxt-echo)
 
 ### [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
@@ -1409,7 +1415,7 @@
 ### [nuejs/nue](https://github.com/nuejs/nue)
 - **Description:** Standards first web framework taking HTML, CSS, JS, and WASM to their peak
 
-### [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
+### [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
 - **Description:** CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically.
 
 ### [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
@@ -2561,7 +2567,7 @@
 - **Description:** Sample cloud-native serverless project for a Flight Air company using Node.Js, Typescript, AWS DynamoDB, AWS Lambda, AWS SQS, AWS API Gateway and Serverless Framework.
 
 ### [kubewall/kubewall](https://github.com/kubewall/kubewall)
-- **Description:** kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple clusters.
+- **Description:** kubewall — Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 ### [laksharmaa/Serverless-TTS-Application](https://github.com/laksharmaa/Serverless-TTS-Application)
 - **Description:** PollyBlogs is a powerful text-to-speech application that uses AWS Polly to generate voice narration for blog posts. 
@@ -3113,7 +3119,7 @@
 - **Description:** The world's most intuitive and reliable strongly-typed collaborative library
 
 ### [garden-co/jazz](https://github.com/garden-co/jazz)
-- **Description:** Toolkit for backendless apps
+- **Description:** A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 
 ### [nodejs/docker-node](https://github.com/nodejs/docker-node)
 - **Description:** Official Docker Image for Node.js :whale: :turtle: :rocket: 
