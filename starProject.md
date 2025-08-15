@@ -900,7 +900,7 @@
 - **Description:** FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 
 ### [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)
-- **Description:** A zero-config, instant build tool powered by Rspack.
+- **Description:** The zero-config build tool powered by Rspack 🦀
 
 ### [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server)
 - **Description:** Official Notion MCP Server
