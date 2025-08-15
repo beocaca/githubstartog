@@ -1,3 +1,20 @@
+### [telepace/nexus](https://github.com/telepace/nexus)
+- **Description:** An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity.
+
+### [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner)
+- **Description:** Terraform module for scalable GitHub action runners on AWS
+
+### [dubisdev/kunkun](https://github.com/dubisdev/kunkun)
+- **Description:** An open source, cross-platform, extensible app launcher.
+
+### [SidVerson/shadcn-extended](https://github.com/SidVerson/shadcn-extended)
+
+### [sigma-hub/sigma-ui](https://github.com/sigma-hub/sigma-ui)
+- **Description:** Well designed components for your Vue apps. Built on Reka-UI (Radix) primitives. Similar to shadcn/ui
+
+### [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer)
+- **Description:** shadcn/ui themes with color pickers
+
 ### [donPuerto/nuxt-shadcn-boilerplate](https://github.com/donPuerto/nuxt-shadcn-boilerplate)
 - **Description:** 🚀 Nuxt 4 + ShadCN Boilerplate
 
