@@ -6605,7 +6605,7 @@
 - **Description:** 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 
 ### [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x)
-- **Description:** A cross-platform image super-resolution tool.
+- **Description:** a cross-platform image super-resolution tool
 
 ### [ssnangua/iyo-image-converter](https://github.com/ssnangua/iyo-image-converter)
 - **Description:** A free native image converter | 一个免费的本地图片转换工具
