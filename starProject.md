@@ -2468,7 +2468,7 @@
 ### [nuxt-modules/supabase](https://github.com/nuxt-modules/supabase)
 - **Description:** Supabase module for Nuxt.
 
-### [haithanhphan1603/supabase-nuxt-ecommerce](https://github.com/haithanhphan1603/supabase-nuxt-ecommerce)
+### [haiphan163/supabase-nuxt-ecommerce](https://github.com/haiphan163/supabase-nuxt-ecommerce)
 - **Description:** Fullstack E-commerce using Nuxt 3, TypeScript, Shadcn, and Supabase
 
 ### [yb/uptime-status](https://github.com/yb/uptime-status)
