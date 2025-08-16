@@ -1,3 +1,6 @@
+### [rust-tieng-viet/rust-tieng-viet.github.io](https://github.com/rust-tieng-viet/rust-tieng-viet.github.io)
+- **Description:** Rust Tiếng Việt
+
 ### [semyenov/pothos-todo](https://github.com/semyenov/pothos-todo)
 
 ### [hayes/pothos](https://github.com/hayes/pothos)
@@ -254,7 +257,7 @@
 - **Description:** 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 
 ### [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
-- **Description:** DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+- **Description:** Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Knowledge ingestion, LLM-agnostic deployment, and API connectivity for agents.
 
 ### [katanaml/sparrow](https://github.com/katanaml/sparrow)
 - **Description:** Structured data extraction and instruction calling with ML, LLM and Vision LLM
