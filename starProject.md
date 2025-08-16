@@ -1,3 +1,6 @@
+### [google/leveldb](https://github.com/google/leveldb)
+- **Description:** LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+
 ### [telepace/nexus](https://github.com/telepace/nexus)
 - **Description:** An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity.
 
