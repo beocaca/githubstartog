@@ -1,3 +1,8 @@
+### [semyenov/pothos-todo](https://github.com/semyenov/pothos-todo)
+
+### [hayes/pothos](https://github.com/hayes/pothos)
+- **Description:** Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
+
 ### [google/leveldb](https://github.com/google/leveldb)
 - **Description:** LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
