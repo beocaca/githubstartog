@@ -1,3 +1,6 @@
+### [k3s-io/k3s](https://github.com/k3s-io/k3s)
+- **Description:** Lightweight Kubernetes
+
 ### [rust-tieng-viet/rust-tieng-viet.github.io](https://github.com/rust-tieng-viet/rust-tieng-viet.github.io)
 - **Description:** Rust Tiếng Việt
 
@@ -3493,7 +3496,7 @@
 - **Description:** AI Landing Page Template created by Pagen AI
 
 ### [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC)
-- **Description:** Native WebRTC low-latency P2P video streaming on Raspberry Pi with V4L2 hardware H.264 and OpenH264 software encoding support.
+- **Description:** Native WebRTC low-latency P2P video streaming on Raspberry Pi and NVIDIA Jetson with both hardware and software encoding support.
 
 ### [alex8088/electron-vite](https://github.com/alex8088/electron-vite)
 - **Description:** Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
