@@ -260,7 +260,7 @@
 - **Description:** 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 
 ### [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
-- **Description:** Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Knowledge ingestion, LLM-agnostic deployment, and API connectivity for agents.
+- **Description:** Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
 ### [katanaml/sparrow](https://github.com/katanaml/sparrow)
 - **Description:** Structured data extraction and instruction calling with ML, LLM and Vision LLM
