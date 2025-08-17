@@ -6817,7 +6817,7 @@
 - **Description:** Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 
 ### [Yutsuten/notes](https://github.com/Yutsuten/notes)
-- **Description:** A personal knowledge base mainly with programming and Linux tools information.
+- **Description:** A personal knowledge base mainly with programming and Linux tools information. Now migrating to Codeberg: https://codeberg.org/Yutsuten/notes
 
 ### [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin)
 - **Description:** ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
