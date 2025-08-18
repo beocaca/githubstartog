@@ -6500,6 +6500,7 @@
 - **Description:** 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 
 ### [go-vikunja/app](https://github.com/go-vikunja/app)
+- **Description:** Cross-Platform app for Vikunja
 
 ### [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
 - **Description:** The to-do app to organize your life.
