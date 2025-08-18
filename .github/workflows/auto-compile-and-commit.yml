@@ -23,7 +23,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Important so we can diff against previous commit
+          fetch-depth: 0
 
       - name: Set up Go environment
         uses: actions/setup-go@v5
@@ -51,75 +51,64 @@ jobs:
         run: |
           cp aiTagProcess.json web/public/projects.json
 
-      - name: Set commit message from diff (compact & consistent)
-        id: set_message
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-          MANUAL_REASON: ${{ github.event.inputs.reason }}
+      - name: Check for changes
+        id: diff
         run: |
-          # If no actual diff against HEAD for aiTagProcess.json, bail early
-          if git diff --quiet HEAD aiTagProcess.json; then
-            msg="No AI tag changes"
+          git add aiTagProcess.json web/public/projects.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
-            # Take only added lines from the diff of aiTagProcess.json
-            added_lines="$(git diff -U0 HEAD -- aiTagProcess.json | sed -n 's/^+//p')"
-
-            # Parse added lines → pair "full_name" with the nearest "stargazers_count"
-            # Output lines as: owner/repo ★ 1234
-            summary_lines="$(printf '%s\n' "$added_lines" | \
-              awk '
-                /"full_name":/ {
-                  if (match($0, /"full_name": *"([^"]+)"/, m)) name=m[1]
-                }
-                /"stargazers_count":/ {
-                  if (match($0, /"stargazers_count": *([0-9]+)/, m)) {
-                    stars=m[1]
-                    if (name != "") {
-                      print name " ★ " stars
-                      name=""; stars=""
-                    }
-                  }
-                }
-              ' | awk 'NF' | head -n 5 )"
-
-            # Count items and join with separator
-            if [ -n "$summary_lines" ]; then
-              count="$(printf '%s\n' "$summary_lines" | wc -l | tr -d ' ')"
-              joined="$(printf '%s\n' "$summary_lines" | paste -sd ', ' -)"
-            else
-              count=0
-              joined="(no readable repo/star changes)"
-            fi
-
-            # Trigger prefix
-            case "$EVENT_NAME" in
-              schedule) prefix="Cron" ;;
-              workflow_dispatch) prefix="Manual: ${MANUAL_REASON:-Manual trigger}" ;;
-              *) prefix="Push" ;;
-            esac
-
-            msg="[AI] ${prefix} — ${count} repo(s): ${joined}"
-
-            # Hard cap length ~250 chars to keep it tidy
-            max=250
-            if [ "${#msg}" -gt "$max" ]; then
-              msg="${msg:0:$((max-3))}..."
-            fi
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-          # Output to step outputs safely
+      - name: No changes log
+        if: steps.diff.outputs.changed == 'false'
+        run: echo "No changes to commit"
+
+      - name: Set commit message
+        id: set_message
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          added_lines="$(git diff -U0 HEAD -- aiTagProcess.json | sed -n 's/^+//p')"
+
+          summary_lines="$(printf '%s\n' "$added_lines" | \
+            awk '
+              /"full_name":/ {
+                if (match($0, /"full_name": *"([^"]+)"/, m)) name=m[1]
+              }
+              /"stargazers_count":/ {
+                if (match($0, /"stargazers_count": *([0-9]+)/, m)) {
+                  stars=m[1]
+                  if (name != "") {
+                    print name " ★ " stars
+                    name=""; stars=""
+                  }
+                }
+              }
+            ' | awk 'NF' | head -n 5 )"
+
+          count="$(printf '%s\n' "$summary_lines" | wc -l | tr -d ' ')"
+          joined="$(printf '%s\n' "$summary_lines" | paste -sd ', ' -)"
+
+          msg="${count} : ${joined}"
+
+          max=250
+          if [ "${#msg}" -gt "$max" ]; then
+            msg="${msg:0:$((max-3))}..."
+          fi
+
           {
             echo "commit_message<<EOF"
             echo "$msg"
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
-      - name: Commit all files
+      - name: Commit & push
+        if: steps.diff.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "${{ steps.set_message.outputs.commit_message }}" || echo "No changes to commit"
+          git commit -m "${{ steps.set_message.outputs.commit_message }}"
           git push
